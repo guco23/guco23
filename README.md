@@ -1,9 +1,6 @@
-## 1
-Se me ha ocurrido que podría escribir aquí lo que se me pase por la cabeza.
-
-Cuando me apetezca cambiaré está página con algo nuevo. Siempre puedes mirar el log.
-
-### ¯\_(ツ)_/¯
+## 2
+Si lo piensas, el café es una sopa de judías. ¿No?
+Ayyy que rico que está el café.
 <!--
 **guco23/guco23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
