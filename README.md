@@ -1,6 +1,5 @@
-## 3
-I am not the man who was.
-I am the man that will be.
+## 4
+:)
 <!--
 **guco23/guco23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
